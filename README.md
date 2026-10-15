@@ -18,7 +18,12 @@ I spent **4+ years building healthcare software for Unimed Fortaleza**, includin
 
 <div align="center">
 
-<img src="./assets/tech-stack.svg" alt="Technology stack: Flutter, Dart, Node.js, NestJS, Firebase, MongoDB, PostgreSQL, Docker, GitHub Actions, Swift, Kotlin and Figma" width="100%" />
+### ⚙️ Tech Stack
+
+<!-- Logos reais da Tech Stack via Skill Icons; os icones de Connect sao vetoriais e locais. -->
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,nestjs,firebase,mongodb,postgres,docker,githubactions,swift,kotlin,figma&theme=dark&perline=12" alt="Flutter, Dart, Node.js, NestJS, Firebase, MongoDB, PostgreSQL, Docker, GitHub Actions, Swift, Kotlin and Figma" width="100%" />
+
+<sub>Flutter · Dart · Node.js · NestJS · Firebase · MongoDB · PostgreSQL · Docker · GitHub Actions · Swift · Kotlin · Figma</sub>
 
 </div>
 
