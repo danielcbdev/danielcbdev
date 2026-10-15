@@ -1,23 +1,41 @@
-# Daniel Carvalho
+<div align="center">
 
-Senior Software Engineer focused on mobile (Flutter/Dart), with backend experience in Node.js/NestJS. I build production apps end to end, from the app to the API contract, with predictable architecture, automated delivery and code a team can maintain.
+<img src="./assets/hero.png" alt="Daniel Carvalho — Senior Software Engineer, Flutter, native mobile and backend" width="100%" />
 
-- 7 years shipping Flutter apps to the App Store and Google Play
-- 4+ years building healthcare apps for Unimed Fortaleza: beneficiary app, Apple Wallet and Google Wallet health card, clinical system integrations
-- Clean Architecture, BLoC, Riverpod, SOLID, mobile security, CI/CD for mobile
+<br/>
 
-## Featured
+**Mobile-first engineering · Reliable architecture · Products shipped to real users**
 
-**[MacDevClean](https://github.com/danielcbdev/mac-dev-clean)**: native macOS app (Swift 6, SwiftUI, SwiftData) that finds reclaimable developer storage and moves it to the Trash. Type-level cleanup authority, TDD with fakes and fixtures, least-privilege CI and ADRs.
+[**LinkedIn**](https://www.linkedin.com/in/danielcbdev) &nbsp; · &nbsp; [**Portfolio**](https://portfolio-daniel-dun.vercel.app) &nbsp; · &nbsp; [**MacDevClean**](https://github.com/danielcbdev/mac-dev-clean)
 
-## Stack
+</div>
 
-**Mobile:** Flutter, Dart, BLoC, Riverpod, native Android (Kotlin) and iOS (Swift) via platform channels, SwiftUI, WebRTC
+### About me
 
-**Backend:** Node.js, NestJS, TypeScript, REST, GraphQL, MongoDB, PostgreSQL, Firebase, Supabase
+I'm a **Senior Software Engineer** with **7 years of experience shipping Flutter applications** to the App Store and Google Play. I build end-to-end products—from thoughtful mobile experiences to APIs, architecture and automated delivery.
 
-**Delivery:** GitLab CI, GitHub Actions, Codemagic, Fastlane, Docker, Sentry, Firebase Crashlytics
+I spent **4+ years building healthcare software for Unimed Fortaleza**, including beneficiary experiences, Apple Wallet / Google Wallet health cards and clinical system integrations. My approach combines **Clean Architecture, BLoC, Riverpod, SOLID, security and CI/CD** with pragmatic product thinking.
 
-## Contact
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/danielcbdev) · [Portfolio](https://portfolio-daniel-dun.vercel.app)
+<img src="./assets/tech-stack.svg" alt="Technology stack: Flutter, Dart, Node.js, NestJS, Firebase, MongoDB, PostgreSQL, Docker, GitHub Actions, Swift, Kotlin and Figma" width="100%" />
+
+</div>
+
+<table width="100%"><tr><td width="50%" valign="top">
+<img src="./assets/now.svg" alt="Currently building mobile experiences, exploring AI-assisted engineering and improving MacDevClean" width="100%" />
+</td><td width="50%" valign="top">
+<img src="./assets/contact.svg" alt="Connect via LinkedIn, portfolio and GitHub" width="100%" />
+</td></tr></table>
+
+<div align="center">
+
+[**↗ LinkedIn**](https://www.linkedin.com/in/danielcbdev) &nbsp;&nbsp; [**↗ Portfolio**](https://portfolio-daniel-dun.vercel.app) &nbsp;&nbsp; [**↗ GitHub**](https://github.com/danielcbdev)
+
+</div>
+
+### Featured project
+
+**[MacDevClean](https://github.com/danielcbdev/mac-dev-clean)** — A native macOS app built with **Swift 6, SwiftUI and SwiftData** that finds reclaimable developer storage and safely moves it to the Trash. Built with type-level cleanup authority, TDD, least-privilege CI and architecture decision records.
+
+<sub>Also experienced with Kotlin, Swift, WebRTC, TypeScript, REST, GraphQL, Supabase, GitLab CI, Codemagic, Fastlane, Sentry and Firebase Crashlytics.</sub>
